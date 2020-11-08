@@ -1,0 +1,10 @@
+Auditorium_Experience_ID,Auditorium_Experience_Description,Is_Premium
+0,<Unknown>,0
+1,Regular,0
+2,AVX,1
+3,IMAX,1
+4,VIP,1
+5,Alt.Prog Film,0
+6,Alt.Prog Event,0
+7,4DX,1
+8,ScreenX,1

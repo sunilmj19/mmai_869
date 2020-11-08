@@ -1,0 +1,497 @@
+Location_ID,Location_Name,Location_Short_Name,Location_Interactive_Name,Address1,City,Province_CD,Postal_Code,Country_CD,Is_VIP,Is_Outtakes,Is_Licensed_Bar,Is_Licensed_Lounge
+-100,Cineplex Store,Store,Cineplex Store,https://store.cineplex.com/,Toronto,ON,M4T 2Y9,CA,0,0,0,0
+-1,,,,,,  ,,  ,0,0,0,0
+0,Head Office,HO,Head Office,1303 Yonge Street,Toronto,ON,M4T 2Y9,CA,0,0,0,0
+1001,The Rec Room Brentwood,RB Rec Room,The Rec Room Brentwood,"Unit 2106, 1920 Willingdon Ave",Burnaby,BC,V5C 0K3,CA,0,0,0,0
+1101,Station Square Cinemas ,Station Square,Station Square Cinemas ,219-6200 Mckay Avenue,Burnaby,BC,V5H 4L7,CA,0,0,0,0
+1102,Clearbrook Cinemas,Clearbrook,Clearbrook Cinemas,250-32500 South Fraser Way,Clearbrook,BC,V2T 4W1,CA,0,0,0,0
+1103,CPX Park & Tilford,Park&Tilfrd ,Cineplex Odeon Park & Tilford Cinemas ,200-333 Brooksbank Avenue,N. Vancouver,BC,V7J 3S8,CA,0,0,0,0
+1104,Hillcrest Drive In,Hillcrest DI,Hillcrest Drive In,,Surrey,BC,,CA,0,0,0,0
+1107,New Westminster Cinema,New Westminster,New Westminster Cinema,299-555 Sixth Street,New Westminster,BC,V3L 5H1,CA,0,0,0,0
+1109,Odeon Prince George,Odeon Pr George,Odeon Prince George,355 Vancouver St,Prince George,BC,V2L 2P1,CA,0,0,0,0
+1110,Royal Centre Cinemas,Royal Centre Ci,Royal Centre Cinemas,Royal Centre,Vancouver,BC,V6E 4C8,CA,0,0,0,0
+1115,Pinetree Cinemas,Pinetree,Pinetree Cinemas,2991 Lougheed Highway,Coquitlam,BC,V3B 6J6,CA,0,0,0,0
+1116,Granville Cinemas,Granville,Granville Cinemas,855 Granville St.,Vancouver,BC,V6Z 1K7,CA,0,0,0,0
+1118,Dolphin,Dolphin,Dolphin,4555 East Hastings St.,Burnaby,BC,V5C 3G7,CA,0,0,0,0
+1119,Fraser,Fraser,Fraser,6294 Fraser Ave.,Vancouver,BC,V5W 3A1,CA,0,0,0,0
+1120,Scott 72 Cinemas,Scott 72,Scott 72 Cinemas,7337-120th St.,North Delta,BC,V4C 6P5,CA,0,0,0,0
+1122,Oakridge Cinemas,Oakridge,Oakridge Cinemas,601-650 West 41st Ave.,Vancouver,BC,V5Z 2M9,CA,0,0,0,0
+1128,Haida Theatre,Haida Theatre,Haida Theatre,808 Yates St.,Victoria,BC,V8W 1L8,CA,0,0,0,0
+1129,CPX Odeon Victoria,Odeon Vict,Cineplex Odeon Victoria Cinemas ,780 Yates Street,Victoria,BC,V8W 1L4,CA,0,0,0,0
+1130,Towne Victoria,Towne Victoria,Towne Victoria,#106-808 Douglas Street,Victoria,BC,V8W 2B6,CA,0,0,0,0
+1131,Skyway Drive-In,Skyway Drive-In,Skyway Drive-In,48th Ave. & 23rd Rd.,Vernon,BC, ,CA,0,0,0,0
+1132,Odeon Cinemas West Vancouver,Odeon Cinemas,Odeon Cinemas,1565 Marine Dr.,West Vancouver,BC,V7V 1H9,CA,0,0,0,0
+1134,Odeon Kamloops,Odeon Kamloops ,Odeon Kamloops,612 Victoria Street,Kamloops,BC,V2C 2B4,CA,0,0,0,0
+1135,Richport Cinemas,Richport Cinema,Richport Cinemas,135 8171 Ackroyd Rd,Richmond,BC,V6X 3K1,CA,0,0,0,0
+1136,CPX Strawberry Hill,CPX Strawberry Hill,Cineplex Cinemas Strawberry Hill,12161-72nd Avenue,Surrey,BC,V3W 2M1,CA,0,1,0,0
+1137,CPX Aberdeen Mall,Aberdeen,Cineplex Cinemas Aberdeen Mall,700-1320 West Trans Canada Highway,Kamloops,BC,V1S 1J2,CA,0,0,0,0
+1141,GLX Nanaimo,Rutherford,Galaxy Cinemas Nanaimo,213-4750 Rutherford Road,Nanaimo,BC,V9T 4K6,CA,0,0,0,0
+1142,CPX Pitt Meadows,Meadowtown,Cineplex Odeon Meadowtown Cinemas,"#410, 19800 Lougheed Highway",Pitt Meadows,BC,V3Y 2W1,CA,0,1,0,0
+1144,GLX Chilliwack,Chilliwack,Galaxy Cinemas Chilliwack,8249 Eagle Landing Parkway,Chilliwack,BC,V2R 0P9,CA,0,1,0,0
+1145,CPX Marine Gateway & VIP,CPX Marine Gateway,Cineplex Cinemas Marine Gateway and VIP,452 South West Marine Drive,Vancouver,BC,V5X 0C3,CA,1,1,0,1
+1146,CPX Westshore,Westshore,Cineplex Odeon Westshore Cinemas,900 2945 Jacklin Rd,Langford,BC,V9B 5E3,CA,0,1,0,0
+1147,CPX International Village,Intl Village,Cineplex Odeon International Village Cinemas,88 West Pender,Vancouver,BC,V6B 6N9,CA,0,0,0,0
+1148,CPX Abbotsford & VIP,Abbotsford,Cineplex Cinemas Abbotsford and VIP,"3122 Mt. Lehman Rd., Unit J200",Abbotsford,BC,V4X 2K9,CA,1,1,0,1
+1149,Fifth Avenue Cinemas,Fifth Ave,Fifth Avenue Cinemas (age restricted 19+),2110 Burrard Street,Vancouver,BC,V6J 3H6,CA,0,0,1,1
+1150,The Park Theatre,Park,The Park Theatre,3440 Cambie St.,Vancouver,BC,V5Z 2W8,CA,0,0,0,0
+1151,CPX Park Royal & VIP,CPX Park Royal,Cineplex Cinemas Park Royal and VIP,3000 Park Royal South,West Vancouver,BC,V7T 2W4,CA,1,1,0,0
+1157,Cineplex Cinemas Esplanade,CPX Esplanade,Cineplex Cinemas Esplanade,200 West Esplanade,N. Vancouver,BC,V7M 1A4,CA,0,0,0,0
+1400,FP Richmond Centre 6,Richmond,Famous Players Richmond Centre 6 Cinemas,"Richmond Shopping Centre, 6551 No.3 Road",Richmond,BC,V6Y 2B6,CA,0,0,0,0
+1401,Esplanade,Esplanage,Esplanade 6,200 West Esplanade,North Vancouver,BC,V7M 1A4,CA,0,0,0,0
+1402,"Capital 6, Vancouver","Capital 6, ","Capital 6, Vancouver",FP Closed,Vancouver,BC,,CA,0,0,0,0
+1403,SilverCity Guildford,SC Guildfrd,SilverCity Guildford,15051-101 St Avenue,Surrey,BC,V3R 7Z1,CA,0,0,0,0
+1404,Willowbrook,Willowbrook,Willowbrook,19677 Willowbrook Drive,Langley,BC,V2Y 1A6,CA,0,0,0,0
+1405,CPX Langley,CPX Langley,Cineplex Cinemas Langley,"#20090, 91A Avenue",Langley,BC,V1M 3Y9,CA,0,1,0,0
+1406,FP Station Square 7,Station Sq.,Famous Players Station Square Cinemas,220-6200 Mckay Avenue,Burnaby,BC,V5H 4L7,CA,0,0,0,0
+1407,SC Mission,SC Mission,SilverCity Mission Cinemas ,"The Junction Plaza, 32555 London Avenue",Mission,BC,V2V 6M7,CA,0,1,0,0
+1408,CPX Metropolis,CPX Metropolis,Cineplex Cinemas Metropolis,4700 Kingsway,Burnaby,BC,V5H 4M1,CA,0,1,0,0
+1409,SC Riverport,SC Riverport,SilverCity Riverport Cinemas ,14211 Entertainment Way,Richmond,BC,V6W 1K4,CA,0,1,0,0
+1410,CPX Orchard Plaza,CPX Orchard Plaza,Cineplex Cinemas Orchard Plaza,160-1876 Cooper Road,Kelowna,BC,V1Y 9N6,CA,0,0,0,0
+1411,FP Eagle Ridge 6,Eagle Ridge,Eagle Ridge,2635 Barnet Highway,Coquitlam,BC,V3E 1K9,CA,0,0,0,0
+1412,CPX Coquitlam & VIP,CPX Coquitlam & VIP,Cineplex Cinemas Coquitlam and VIP,170 Schoolhouse Street,Coquitlam,BC,V3K 4X9,CA,1,1,0,1
+1413,GLX Cinemas Vernon,FP Vernon,Galaxy Cinemas Vernon,275-2306 Highway 6,Vernon,BC,V1T 7E3,CA,0,0,0,0
+1414,FP Prince Rupert 3,P. Rupert,Famous Players Prince Rupert Cinemas ,525 West 2nd Avenue,Prince Rupert,BC,V8J 1G9,CA,0,0,0,0
+1415,FP Prince George 6,FP P.George,Famous Players 6 Cinemas ,172-1600 15th Avenue,Prince George,BC,V2L 3X3,CA,0,0,0,0
+1416,Capitol Victoria,Capitol Vic,Capitol 6 Victoria,805 Yates Street,Victoria,BC,V8W 1M1,CA,0,0,0,0
+1417,SC Victoria,SC Victoria,SilverCity Victoria Cinemas ,3130 Tillicum Road,Victoria,BC,V9A 6T2,CA,0,1,0,0
+1418,Alliance University,University,University 4 -  Alliance Atlantis,#100-3980 Shelbourne Street,Victoria,BC,V8N 3E2,CA,0,0,0,0
+1419,Park - Alliance Cinemas,Park,Park - Alliance Atlantis,3440 Cambie Street,Vancouver,BC,V5Z 2W8,CA,0,0,0,0
+1420,Alliance Fifth Avenue,Fifth Ave,Fifth Avenue - Alliance Atlantis,2110 Burrard Street,Vancouver,BC,V6J 3H6,CA,0,0,0,0
+1422,SBNK Vancouver,Scotia Vancouver,Scotiabank Theatre Vancouver,900 Burrard Street,Vancouver,BC,V6Z 3G5,CA,0,1,0,0
+1423,"Park Theatre, Vancouver","Park Theatre, ","Park Theatre, Vancouver",FP Closed,Vancouver,BC,,CA,0,0,0,0
+1448,VANCOUVER CENTRE CINEMAS(CLOSED),VANCOUVER CENTR,VANCOUVER CENTRE CINEMAS(CLOSED),FP Closed,Vancouver,BC,V6B 4N7,CA,0,0,0,0
+1700,TEST THEATRE 1700,TEST,TEST,1025 The Queensway,Etobicoke,ON,M8Z 6C7,CA,0,0,0,0
+2001,TRR Seasons of Tuxedo,RR Seasons,TRR Seasons of Tuxedo,"Lot 5, 696 Sterling Lyon Pkwy",Winnipeg,MB,R3P 1J9,CA,0,0,1,0
+2101,Eaton Place Cinemas,Eaton Place Cin,Eaton Place Cinemas,234 Donald Street,Winnipeg,MB,R3C 1M8,CA,0,0,0,0
+2103,CPX Odeon Drive-In (2103 - Closed 2009),Odeon DI ,CPX Odeon Drive-In,4415 Portage Ave.,Winnipeg,MB,R3K 2C2,CA,0,0,0,0
+2104,Garrick Cinemas,Garrick Cinemas,Garrick Cinemas,330 Garry St.,Winnipeg,MB,R3B 2G6,CA,0,0,0,0
+2105,Grant Park Theatre,Grant Park,Grant Park Theatre,"Unit 127, 1120 Grant Ave.",Winnipeg,MB,R3M 2A6,CA,0,0,0,0
+2106,Kings Winnipeg,Kings Winnipeg,Kings Winnipeg,1771 Portage Avenue,Winnipeg,MB,R3J 0E7,CA,0,0,0,0
+2109,Towne 8 Cinemas,Towne 8 Cinemas,Towne 8 Cinemas,301 Notre Dame Ave,Winnipeg,MB,R2H 0C7,CA,0,0,0,0
+2110,Galaxy Winnipeg,Winnipeg,Galaxy Winnipeg,,Winnipeg,MB,,CA,0,0,0,0
+2111,CPX McGillivray & VIP,CPX McGillivray ,Cineplex Odeon McGillivray Cinemas and VIP,2190 McGillivray Boulevard,Winnipeg,MB,R3Y 1S6,CA,1,1,1,1
+2112,Northgate,Northgate,Cinema City Northgate,1399 McPhillips Street,Winnipeg,MB,R2V 3C4,CA,0,0,0,0
+2113,CPX Odeon Drive-In (2113 - Closed 2009),Odeon DI ,CPX Odeon Drive-In,4415 Portage Ave.,Winnipeg,MB,R3K 2C2,CA,0,0,0,0
+2400,FP Garden City 2,Garden City,Garden City,2305 McPhillips Street,Winnipeg,MB,R2V 3E1,CA,0,0,0,0
+2401,SBNK Winnipeg,SBNK Winnipeg,Scotiabank Theatre Winnipeg,817 St. James Street,Winnipeg,MB,R3G 3L3,CA,0,1,0,0
+2402,SC St. Vital,SC St.Vital,SilverCity St. Vital Cinemas,160-1225 St. Mary's Road,Winnipeg,MB,R2M 5E5,CA,0,1,0,0
+2403,FP Kildonan Place 6,Kildonan Pl,Famous Players Kildonan Place Cinemas,1555 Regent Avenue West,Winnipeg,MB,R2C 4J2,CA,0,0,0,0
+2408,NORTH STAR CINEMAS(CLOSED),"NORTHSTAR, Winn",NORTH STAR CINEMAS(CLOSED),FP Closed,Winnipeg,MB,,CA,0,0,0,0
+2409,PORTAGE PLACE CINEMAS(CLOSED),"PORTAGE PLACE, ",PORTAGE PLACE CINEMAS(CLOSED),FP Closed,Winnipeg,MB,,CA,0,0,0,0
+3001,The Rec Room South Edmonton,SE Rec Room,The Rec Room South Edmonton,South Edmonton Common,Edmonton,AB,T6N 1K5,CA,0,0,1,0
+3002,The Rec Room Deerfoot,Deerfoot RR,The Rec Room Deerfoot,Rec Room Deerfoot,Calgary,AB,T2E 7P4,CA,0,0,1,0
+3003,The Rec Room West Edmonton Mall,W Edmonton,West Edmonton Mall,Unit 2065,Edmonton,AB,T5T 3J7,CA,0,0,1,0
+3100,Village Tree Cinemas,Village Tree,Village Tree Cinemas,400 Village Tree St. Mall,St. Albert,AB,T8N 3S1,CA,0,0,0,0
+3101,GLX Lethbridge,Lethbridge,Galaxy Cinemas Lethbridge,501-1st Avenue South West,Lethbridge,AB,T1J 0A1,CA,0,1,1,0
+3102,Esso Plaza Cinemas,Esso Plaza,Esso Plaza Cinemas,222-5th Ave. S.W.,Calgary,AB,T2P 0L1,CA,0,0,0,0
+3103,CPX Seton & VIP,Seton & VIP,Cineplex Cinemas Seton and VIP,"19683 Seton Cres, SE",Calgary,AB,T3M 2N9,CA,1,1,1,0
+3104,Corral Drive In,Corral Drive In,Corral Drive In,C/O North Hill Cinema,Calgary,AB,T2M 0L9,CA,0,0,0,0
+3105,Showcase Grand Cinemas,Showcase Grand ,Showcase Grand Cinemas,608 1st Street S.W,Calgary,AB,T2P 1M6,CA,0,0,0,0
+3106,London Town Square Cinemas,London Town,London Town Square Cinemas,3545 32nd Ave. N.E.,Calgary,AB,T1Y 6M6,CA,0,0,0,0
+3107,Marlborough Cinemas,Marlborough,Marlborough Cinemas,1501-515 Marlborough Way N.E.,Calgary,AB,T2A 2K2,CA,0,0,0,0
+3108,North Hill Theatre,North Hill,North Hill Theatre,1705-16th Avenue N.W,Calgary,AB,T2M 0L9,CA,0,0,0,0
+3109,Northland Village Cinemas,Northland Villa,Northland Village Cinemas,5111 Northland Dr N.W.,Calgary,AB,T2L 2J8,CA,0,0,0,0
+3110,Odeon,Odeon Cal,Odeon,2101-33 Avenue S.W And2133-33,Calgary,AB, ,CA,0,0,0,0
+3111,Southlands Cinemas Calgary,Southlands Calg,Southlands Cinemas Calgary,"10125 Southport Road,S.W.",Calgary,AB,T2W 3N2,CA,0,0,0,0
+3112,Towne Cinemas Calgary,Towne Calgary,Towne Cinemas Calgary,617-8th Ave.S.W.,Calgary,AB,T2P 1H1,CA,0,0,0,0
+3114,Westbrook Cinemas Calgary,Westbrook Calg,Westbrook Cinemas Calgary,1002-37th St. S.W.,Calgary,AB,T3C 1S2,CA,0,0,0,0
+3116,CPX Westmall 8 ,Westmall 8,Cineplex Odeon West Mall 8,1594 8870 170th  St,Edmonton,AB,T5T 4M2,CA,0,0,0,0
+3117,Twin Drive In Edmonton,Twin Drive In,Twin Drive In Edmonton,,Edmonton,AB,,CA,0,0,0,0
+3118,Millwoods Drive-In,Millwoods Drive,Millwoods Drive-In,5709-51st Avenue,Edmonton,AB,T6B 2R1,CA,0,0,0,0
+3119,Edmonton City Centre,City Centre,Edmonton City Centre,10200-102nd Avenue,Edmonton,AB,T5J 4B7,CA,0,0,0,0
+3120,Jasper Cinemas,Jasper Cinemas ,Jasper Cinemas,10120-156th Street,Edmonton,AB,T5P 2P9,CA,0,0,0,0
+3121,Meadowlark Theatre,Meadowlark Thea,Meadowlark Theatre,156th Street And 87th Avenue,Edmonton,AB,T5R 5W9,CA,0,0,0,0
+3125,Westmall 6 Cinemas,Westmall 6,Westmall 6 Cinemas,"8770-170th Street, #1829",Edmonton,AB,T5T 3J7,CA,0,0,0,0
+3126,Westmount 4 Edmonton,Westmount 4 Edm,Westmount 4 Edmonton,Box 2001,Edmonton,AB,T5M 3L7,CA,0,0,0,0
+3127,Whitemud Crossing Cinemas,Whitemud,Whitemud Crossing Cinemas,4211 106th  Street,Edmonton,AB,T6A 1E1,CA,0,0,0,0
+3128,Principal Plaza,Principal Plaza,Principal Plaza,10032-103 Street,Edmonton,AB,T5J 0X2,CA,0,0,0,0
+3129,St. Albert Drive-In,St Albert Drive,St. Albert Drive-In,Gervais Road,St. Albert,AB,T8N 3S1,CA,0,0,0,0
+3132,GLX Red Deer,GLX Red Deer,Galaxy Cinemas Red Deer,"357-37400 Highway 2,  Red Deer County",Red Deer,AB,T4E 1B9,CA,0,1,1,0
+3134,CPX Eau Claire Market,Eau Claire,Cineplex Odeon Eau Claire Market Cinemas ,"Eau Claire Market, 200 Barclay Parade SW",Calgary,AB,T2P 4R5,CA,0,0,1,0
+3135,Capital  Edmonton,Capital Edmon,Capital  Edmonton,10065 Jasper Avenue,Edmonton,AB,T5J 3B1,CA,0,0,0,0
+3136,Clareview Cinemas,Clareview,Clareview Cinemas,Clareview Town Centre,Edmonton,AB,T5Y 2W7,CA,0,0,0,0
+3137,Canyon Meadows,Canyon Meadows ,Canyon Meadows,Bay 110,Calgary,AB,T2J 7E5,CA,0,0,0,0
+3138,CPX Crowfoot Crossing,Crowfoot,Cineplex Odeon Crowfoot Crossing Cinemas,91 Crowfoot Terrace NW,Calgary,AB,T3G 2L5,CA,0,1,0,0
+3140,GLX Medicine Hat,Med. Hat,Galaxy Cinemas Medicine Hat,3292 Dunmore Road SE,Medicine Hat,AB,T1B 2R4,CA,0,0,1,0
+3141,CPX Grande Prairie,GrndPrairie,Cineplex Odeon Grande Prairie Cinemas,10330 109th Street,Grande Prairie,AB,T8V 7X3,CA,0,0,1,0
+3142,CPX Sunridge Spectrum,Sundridge,Cineplex Odeon Sunridge Spectrum Cinemas,"#400, 2555-32nd Street NE",Calgary,AB,T1Y 7J6,CA,0,1,1,0
+3143,CPX North Edmonton & VIP,North Edm,Cineplex Cinemas North Edmonton and VIP,14231-137th Avenue,Edmonton,AB,T5L 5E8,CA,1,1,1,0
+3144,CPX South Edmonton,South Edm,Cineplex Odeon South Edmonton Cinemas,1525-99th Street NW,Edmonton,AB,T6N 1K5,CA,0,1,0,0
+3146,CPX Sherwood Park,CPX Sherwood,Cineplex Cinemas Sherwood Park,2020 Sherwood Drive,Sherwood Park,AB,T8A 3H9,CA,0,1,1,0
+3147,Movies 12 Edmonton,Movies 12 Edmonton,Cinema City Movies 12,5074 130 Avenue,Edmonton,AB,T5A 5A9,CA,0,0,1,0
+3148,Cinema City 12,,Cinema City 12,3633 99th St,Edmonton,AB,,CA,0,0,0,0
+3149,CPX Windermere & VIP ,Windermere,Cineplex Odeon Windermere Cinemas and VIP,6151 Currents Drive NW,Edmonton,AB,T6W 0L9,CA,1,1,0,1
+3150,SC CrossIron Mills & Xscape,SC CrossIron,SilverCity CrossIron Mills Cinemas and XSCAPE Entertainment Centre,261055 CrossIron Boulevard,Rocky View,AB,T4A 0G3,CA,0,1,1,0
+3151,CPX Manning Town Centre,CPX Manning,Cineplex Cinemas Manning Town Centre,15531 37 ST NW,Edmonton,AB,T5Y 0S5 ,CA,0,1,1,0
+3152,CPX East Hills,CPX East Hills,Cineplex Cinemas East Hills,205 East Hills Boulevard SE,Calgary,AB,T2A 7A6,CA,0,0,1,0
+3400,Coliseum Calgary,Coli.Calgry,Coliseum Calgary,100-16061 Mc loed trail S.E.,Calgary,AB,T2Y 3S5,CA,0,0,1,0
+3401,SBNK Chinook,Scotia Chinook,Scotiabank Theatre Chinook,6455 Macleod Trail SW ,Calgary,AB,T2H 0K4,CA,0,1,1,0
+3402,SilverCity Country Hills,SC C. Hills,SilverCity Country Hills,388 Country Hills Blvd. NE,Calgary,AB,T3K 5J6,CA,0,0,0,0
+3403,SBNK Edmonton,Scotia Edmonton,Scotiabank Theatre Edmonton,"#3030, 8882-170 Street",Edmonton,AB,T5T 4M2,CA,0,1,0,0
+3404,Westmount Centre,Westmount C,Westmount Centre,2003 Westmount Shopping Ctr.,Edmonton,AB,T5M 3L7,CA,0,0,0,0
+3405,Centre,Centre,Lethbridge Centre,440-200 4th Avenue South,Lethbridge,AB,T1J 3Z4,CA,0,0,0,0
+3406,Paramount,Paramount,Paramount Lethbridge,4TH Avenue & 8th Street S.,Lethbridge,AB,T1J 3Z4,CA,0,0,0,0
+3407,Gateway,Gway Edm,Gateway 8 Edmonton,2950 Calgary Trail South,Edmonton,AB,T6J 6V5,CA,0,0,0,0
+3408,FP Park Plaza 6,Park Plaza,Park Plaza Red Deer,5214- 47th Avenue,Red Deer,AB,T4N 5E8,CA,0,0,0,0
+3409,CPX Westhills,Westhills,Cineplex Odeon Westhills Cinemas ,165 Stewart Green SW,Calgary,AB,T3H 3C8,CA,0,0,1,0
+3410,"Paramount,Edmonton",Paramount,"Paramount,Edmonton",FP Closed,Edmonton,AB,,CA,0,0,0,0
+3411,"Centre Cinemas, Lethbridge",Centre Cinem,"Centre Cinemas, Lethbridge",FP Closed,Lethbridge,AB,,CA,0,0,0,0
+3420,SUNRIDGE MALL CINEMAS,"SUNRIDGE, Calga",SUNRIDGE MALL CINEMAS,FP Closed,Calgary ,AB,,CA,0,0,0,0
+3421,"BANKER'S HALL, CALGARY(CLOSED) FP or Alliance",BANKERS HALL - ,"BANKER'S HALL, CALGARY(CLOSED) FP or Alliance",FP Closed,Calgary ,AB,,CA,0,0,0,0
+3422,MARKET MALL CINEMAS,"MARKET MALL, Ca",MARKET MALL CINEMAS,FP Closed,Calgary ,AB,,CA,0,0,0,0
+3634,CPX CINESCAPE,Cinescape,CPX CINESCAPE,200 Barlay Parade S.W.,Calgary,AB,T2P 4R5,CA,0,0,0,0
+3701,CMC,CMC,CMC,1303 Yonge Street,Toronto,ON,M4T 2Y9,CA,0,0,0,0
+4100,Coronet Cinemas,Coronet,Coronet Cinemas,,Regina,SK,,CA,0,0,0,0
+4101,Odeon Centre,Odeon Centre,Odeon Centre,1953 Broad Street,Regina,SK, ,CA,0,0,0,0
+4102,Cinema 6 Drive-In,Cinema 6 Drive,Cinema 6 Drive-In,,Regina,SK,,CA,0,0,0,0
+4103,Sundown Drive In,Sundown Drive I,Sundown Drive In,Highway 5 E.,Saskatoon,SK, ,CA,0,0,0,0
+4104,Southwinds Drive In,Southwinds Driv,Southwinds Drive In,Highway 11 South,Saskatoon,SK, ,CA,0,0,0,0
+4105,Crystal Palace,Crystal Palace,Crystal Palace,Crystal Palace Mall,Moncton,NB,A1A 1A1,CA,0,0,0,0
+4106,CPX Pacific 4,Pacific,Pacific,101 Pacific Avenue,Saskatoon,SK,S7K 1N7,CA,0,0,0,0
+4107,Towne Cinemas Saskatoon,Towne Cinemas,Towne Cinemas,320-20th Street West,Saskatoon,SK,S7K 3S7,CA,0,0,0,0
+4108,CPX Southland,Southland,Cineplex Cinemas Southland,3025 Gordon Road,Regina,SK,S4S 6H7,CA,0,0,0,0
+4109,CPX Centre Cinemas Sask,Ctr Cinema,Cineplex Odeon Centre Cinemas,3510-8th Street,Saskatoon,SK,S7H 0W6,CA,0,0,0,0
+4110,GLX Saskatoon (Old),Saskatoon (Old),Galaxy Cinemas Saskatoon,347 2nd Ave. South,Saskatoon,SK,S7K 1L1,CA,0,0,0,0
+4112,GLX Prince Albert,South Hill,Galaxy Cinemas Prince Albert,"2995 2nd Avenue West, Unit 1C",Prince Albert,SK,S6V 5V5,CA,0,1,0,0
+4113,GLX Moose Jaw,TownNCount.,Galaxy Cinemas Moose Jaw,1235 Main Street North,Moose Jaw,SK,S6H 6M4,CA,0,0,0,0
+4114,CPX Normanview,CPX Normanview,Cineplex Cinemas Normanview (Formerly Cineplex Cinemas Regina),"420 McCarthy Boulevard North, Unit 26",Regina,SK,S4R 7M2,CA,0,1,0,0
+4115,CPX Cinemas at The Centre,CPX Centre Saskatoon,Cineplex Cinemas at The Centre,3510-8th Street,Saskatoon,SK,S7H 0W6,CA,0,0,0,0
+4400,Capitol Saskatoon,Capitol Sas,Capitol 4 Saskatoon,216 1st Avenue South,Saskatoon,SK,S7K 1K3,CA,0,0,0,0
+4401,CORNWALL CENTRE CINEMAS,"CORNWALL CTR., ",CORNWALL CENTRE CINEMAS,FP Closed,Regina,SK,,CA,0,0,0,0
+4402,MIDTOWN CINEMAS(CLOSED),"MIDTOWN, Saskat",MIDTOWN CINEMAS(CLOSED),FP Closed,Saskatoon,SK,,CA,0,0,0,0
+4403,SBNK Saskatoon & VIP,SBNK Saskatoon,Scotiabank Theatre Saskatoon and VIP,347-2nd Avenue South,Saskatoon,SK,S7K 1L1,CA,1,1,0,1
+5002,Playdium Dartmouth,RS,Playdium Dartmouth,21 Cabela Road,Dartmouth,NS,B3B 0P4,CA,0,0,0,0
+5103,CPX Sydney,CPX Sydney,Cineplex Cinemas Sydney,325 Prince Street,Sydney,NS,B1P 5K6,CA,0,0,0,0
+5104,CPX Bridgewater,CPX Bridgewater,Cineplex Cinemas Bridgewater,349 Lahave Street,Bridgewater,NS,B4V 2T6,CA,0,0,0,0
+5114,CPX New Glasgow,CPX New Glasgow,Cineplex Cinemas New Glasgow,612 East River Road,New Glasgow,NS,B2H 3S2,CA,0,0,0,0
+5118,CPX Oxford,CPX Oxford,Cineplex Cinemas Oxford,6408 Quinpool Road,Halifax,NS,B3L 1A8,CA,0,0,0,0
+5119,CPX Lower Sackville,CPX Lower Sackville,Cineplex Cinemas Lower Sackville,760 Sackville Drive,Lower Sackville,NS,B4E 1R7,CA,0,1,0,0
+5130,SBNK Halifax,SBNK Halifax,Scotiabank Theatre Halifax,Bayer's Lake,Halifax,NS,B3S 1C5,CA,0,1,0,0
+5132,CPX New Minas,CPX New Minas,Cineplex Cinemas New Minas,8944 Commercial Street,New Minas,NS,B4N 3C9,CA,0,0,0,0
+5133,CPX Antigonish,CPX Antigonish,Cineplex Cinemas Antigonish,291 Main Street,Antigonish,NS,B2G 2C3,CA,0,0,0,0
+5134,CPX Yarmouth,CPX Yarmouth,Cineplex Cinemas Yarmouth,136 Starrs Road,Yarmouth,NS,B5A 4E5,CA,0,0,0,0
+5140,CPX Truro,CPX Truro,Cineplex Cinemas Truro,20 Treaty Trail,Truro,NS,B6L 1W2,CA,0,0,0,0
+5141,CPX Amherst,CPX Amherst,Cineplex Cinemas Amherst,47 Church Street,Amherst,NS,B4H 3A7,CA,0,0,0,0
+5143,CPX Park Lane,CPX Park Lane,Cineplex Cinemas Park Lane,5657 Spring Garden Road,Halifax,NS,B3J 3R4,CA,0,0,0,0
+5145,CPX Dartmouth Crossing,CPX Dartmouth Cross,Cineplex Cinemas Dartmouth Crossing,145 Shubie Drive,Dartmouth,NS,B3B 0C3,CA,0,1,0,0
+5400,"Penhorn Mall, Dartmouth","Penhorn Mall, ","Penhorn Mall, Dartmouth",FP Closed,Dartmouth,NS,,CA,0,0,0,0
+5401,"Park Lane 8, Halifax",Park Lane ,"Park Lane 8, Halifax",FP Closed,Halifax,NS,,CA,0,0,0,0
+6106,CPX Rothesay,CPX  Rothesay,Cineplex Cinemas Rothesay,77 Marr Road,Quispamsis,NB,E2E 4Z4,CA,0,0,0,0
+6107,CPX Saint John,CPX Saint John,Cineplex Cinemas Saint John,175 McAllister Drive,Saint John,NB,E2J 2S6,CA,0,1,0,0
+6109,CPX Trinity,CPX Trinity,Cineplex Cinemas Trinity Drive,127 Trinity Drive,Moncton,NB,E1G 2J7,CA,0,1,0,0
+6110,CPX Dieppe,CPX Dieppe,Cineplex Cinemas Dieppe,1 Promenade Bass Pro Drive,Dieppe,NB,E1A 6S5,CA,0,0,0,0
+6111,CPX Fredericton,CPX Fredericton,Cineplex Cinemas Fredericton,1381 Regent Street,Fredericton,NB,E3C 1A2,CA,0,1,0,0
+6112,CPX Miramichi,CPX Miramichi,Cineplex Cinemas Miramichi,2480 King George Highway,Miramichi,NB,E1V 6W4,CA,0,0,0,0
+6160,CPX Summerside,CPX Summerside,Cineplex Cinemas Summerside,130 Ryan Street,Summerside,PE,C1N 6G2,CA,0,0,0,0
+6161,CPX Charlottetown,CPX Charlottetown,Cineplex Cinemas Charlottetown,670 University Avenue,West Royalty,PE,C1A 7M4,CA,0,0,0,0
+6400,"FP8,Moncton","FP8,Moncton","FP8,Moncton",FP Closed,Moncton,NB,,CA,0,0,0,0
+6401,"Paramount, Saint John","Paramount, ","Paramount, Saint John",FP Closed,Saint John,NB,,CA,0,0,0,0
+6701,Guest Services,Guest Services,Guest Services,1255 Yonge Street,Toronto,ON,M4T 2Y9,CA,0,0,0,0
+7001,CSI - Playdium Mississauga,Playdium,Playdium Mississauga,99 Rathburn Rd W,Mississauga,ON,L5B 4C1,CA,0,0,0,0
+7002,The Rec Room Roundhouse,Rec Room Roundhouse,The Rec Room Roundhouse,255 Bremner Blvd. ,Toronto,ON,M5V 3M9,CA,0,0,1,0
+7003,The Rec Room London Masonville,Rec Room Masonville,The Rec Room London Masonville,1680 Richmond Street North,London,ON,N6G 3Y9,CA,0,0,0,0
+7009,The Rec Room Square One,RR Square 1,The Rec Room Square One,"100 City Centre Drive, Unit #1-705",Mississauga,ON,L5B 2C9,CA,0,0,0,0
+7010,Playdium Whitby,Playdium Whitby,Playdium Whitby,75 Consumers Drive,Whitby,ON,L1N2C4,CA,0,0,0,0
+7012,Playdium Orion Gate,Playdium Orion Gate,Playdium Orion Gate,20 Biscayne Crescent,Brampton,ON,L6W4S1,CA,0,0,0,0
+7100,CPX Brantford Cinemas,Brantford,Cineplex Odeon Brantford,300 King George Road,Brantford,ON,N3R 5L7,CA,0,0,0,0
+7101,Odeon Cinemas Brantford,Odeon Brantford,Odeon Cinemas Brantford,50 Market Street,Brantford,ON,N3T 2Z5,CA,0,0,0,0
+7102,Showcase Cinemas Burlington,Showcase,Showcase Cinemas Burlington,3325 Harvester Road,Burlington,ON,L7N 3N2,CA,0,0,0,0
+7103,Centennial Cinemas Brampton,Centennial Bram,Centennial Cinemas Brampton,226 Vodden Rd.,Brampton,ON,L6V 1N2,CA,0,0,0,0
+7104,Cineplex Burlington,Cineplex Burlin,Cineplex Burlington,Upper Canada Mall,Burlington,ON,L7R 4B6,CA,0,0,0,0
+7105,CPX Carlton Cinemas,Carlton,Cineplex Odeon Carlton,20 Carlton St.,Toronto,ON,M5B 2H5,CA,0,0,0,0
+7107,Eaton Centre Cinemas Toronto,Eaton Centre To,Eaton Centre Cinemas Toronto,1 Dundas St West,Toronto,ON,M5G 1Z3,CA,0,0,0,0
+7108,South Common Mall Cinemas,South Common,South Common Mall Cinemas,2150 Burnhamthorpe Rd. West,Mississauga,ON,L5L 3A2,CA,0,0,0,0
+7109,Odeon Guelph,Odeon Guelph,Odeon Guelph,166 Wyndham St. N,Guelph,ON,A9A 9A9,CA,0,0,0,0
+7110,Hillcrest Cinemas,Hillcrest,Hillcrest Cinemas,9350 Yonge Street,Richmond Hill,ON,L4C 5G2,CA,0,0,0,0
+7111,Centre Mall Cinemas Hamilton,Centre Mall Ham,Centre Mall Cinemas Hamilton,1145 Barton Street East,Hamilton,ON,L8H 2V2,CA,0,0,0,0
+7112,CPX Westmount London and VIP,CO Westmount,Cineplex Odeon Westmount Cinemas and VIP,755 Wonderland Road South,London,ON,N6K 1M6,CA,1,1,1,1
+7115,CPX Fairview,CPX Fairview,Cineplex Cinemas Fairview Mall,"1800 Sheppard Avenue East, Unit Y007",Toronto,ON,M2J 5A7,CA,0,1,1,0
+7116,Kanata Town Centre Cinemas,Kanata,Kanata Town Centre Cinemas,150 Katimavik Road,Kanata,ON,K2K 1X6,CA,0,0,0,0
+7117,GLX Pergola,GLX Pergola,Galaxy Cinemas Pergola Commons,85 Clair Road East,Guelph,ON,N1L 0J7,CA,0,1,1,0
+7119,Cataraqui Cinemas,Cataraqui,Cataraqui Cinemas,824 Norwest Rd.,Kingston,ON,K7P 1Y1,CA,0,0,0,0
+7120,Odeon Kingston,Odeon Kingston,Odeon Kingston,389-393 Princess Street,Kingston,ON,K7L 1B9,CA,0,0,0,0
+7121,Kitchener Cineplex,Kitchener Cinep,Kitchener Cineplex,272-276 King Street West,Kitchener,ON,N2G 1B6,CA,0,0,0,0
+7122,CPX Courtney Park,Courtney Park,Cineplex Cinemas Courtney Park,110 Courtneypark Dr E,Mississauga,ON,L5T 2Y3,CA,0,1,1,0
+7123,CPX Winston Churchill VIP,Winston Churchill,Cineplex Cinemas Winston Churchill & VIP,2081 Winston Park Dr.,Oakville,ON,L6H 6P5,CA,1,1,1,0
+7124,Cambridge Twin Cinemas,Cambridge Twin,Cambridge Twin Cinemas,150 Holiday Inn Drive,Cambridge,ON,N3C 1Z5,CA,0,0,0,0
+7126,Frederick Mall Cinemas,Frederick Mall,Frederick Mall Cinemas,385 Frederick Street,Kitchener,ON,N2H 2P2,CA,0,0,0,0
+7127,CPX Fairway Kitchener,Fairway Ctr,Cineplex Odeon Fairway Centre,500 Fairway Road South,Kitchener,ON,N2C 1X3,CA,0,0,0,0
+7128,Hyland Kitchener,Hyland Kitch,Hyland Kitchener,Corporation Square,Kitchener,ON,N2H 4Y5,CA,0,0,0,0
+7129,Lyric Theatre,Lyric Theatre,Lyric Theatre,124 King Street West,Kitchener,ON,N2G 1A6,CA,0,0,0,0
+7130,CPX Yonge Dundas and VIP,Yonge Dundas,Cineplex Cinemas Yonge-Dundas and VIP,"10 Dundas Street East, Suite 402  ",Toronto,ON,M5B 2G9,CA,1,0,1,1
+7131,Waterloo Theatre,Waterloo,Waterloo Theatre,24 King Street North,Waterloo,ON,N2J 2W7,CA,0,0,0,0
+7133,CPX Huron Market Place ,Huron Mkt.,Cineplex Odeon Huron Market Place,1251 Huron Street,London,ON,N5X 4V5,CA,0,0,0,0
+7134,Hyland Cinemas,Hyland Cinemas,Hyland Cinemas,240 Wharncliffe Road South,London,ON,N6A 1H1,CA,0,0,0,0
+7135,CPX North Barrie,CPX North Barrie,Cineplex Cinemas North Barrie,507 Cundles Road East,Barrie,ON,L4M 0G9,CA,0,1,1,0
+7136,Westmount Twin London,Westmount Twin,Westmount Twin London,795 Wonderland Road South,London,ON,N6K 3C2,CA,0,0,0,0
+7137,Market Square Cinemas Toronto,Market Sq Tor,Market Square Cinemas Toronto,80 Front Street East,Toronto,ON,M5E 1T4,CA,0,0,0,0
+7138,GLX Cinemas Sarnia,GLX Sarnia,Galaxy Cinemas Sarnia,1380 London Road,Sarnia,ON,N7S 1P7,CA,0,1,1,0
+7139,CPX Don Mills VIP,CPX Don Mills VIP,Cineplex VIP Cinemas Don Mills,Shops at Don Mills,Toronto,ON,M3C 0H9,CA,1,0,1,1
+7140,Seneca Cinemas,Seneca Cinemas,Seneca Cinemas,4630 Queen Street West,Niagara Falls,ON,L2E 2L6,CA,0,0,0,0
+7141,Niagara Square Twin Cinemas,Niagara Sq Twin,Niagara Square Twin Cinemas,7555 Montrose Road,Niagara Falls,ON,L2H 2E9,CA,0,0,0,0
+7143,Oshawa Hyland,Oshawa Hyland,Oshawa Hyland,104 King Street East,Oshawa,ON,L1H 1B6,CA,0,0,0,0
+7146,Oakville Mews Cinemas,Oakville Mews,Oakville Mews Cinemas,171 Speers Road,Oakville,ON,L6K 2E8,CA,0,0,0,0
+7150,Elmdale Cinemas,Elmdale Cinemas,Elmdale Cinemas,1196 Wellington Street,Ottawa,ON,K1Y 2Z5,CA,0,0,0,0
+7151,St. Laurent Cinemas,St. Laurent,St. Laurent Cinemas,1278 St. Laurent Blvd.,Ottawa,ON,K1K 3B8,CA,0,0,0,0
+7152,Somerset Theatre,Somerset,Somerset Theatre,386 Somerset Street West,Ottawa,ON,K2P 0K2,CA,0,0,0,0
+7153,Westgate Cinemas Ottawa,Westgate Ottawa,Westgate Cinemas Ottawa,1309 Carling Ave.,Ottawa,ON,K1Z 7L3,CA,0,0,0,0
+7158,Cinema Centre 3,Cinema Centre 3,Cinema Centre 3,210 Lochiel Street,Sarnia,ON,N7T 4C7,CA,0,0,0,0
+7159,Odeon Cinemas Sarnia,Odeon Sarnia,Odeon Cinemas Sarnia,192 Lochiel Street,Barrie,ON,N7T 4C6,CA,0,0,0,0
+7160,Odeon Cinemas Sudbury,Odeon Sudbury,Odeon Cinemas Sudbury,90 Elm Street W,Sudbury,ON,P3E 4S7,CA,0,0,0,0
+7161,Scarborough Town Centre Cinemas,Scarborough Tow,Scarborough Town Centre Cinemas,300 Borough Drive,Scarborough,ON,M1P 4P5,CA,0,0,0,0
+7162,Can-View Drive In,Can-View DI,Can-View Drive In,Highway #20 & Kottmeleier Road,Fonthill,ON,L0S 1E0,CA,0,0,0,0
+7163,Pendale Cinemas St Catharines,Pendale St Cath,Pendale Cinemas St Catharines,210 Glendale Ave.,St. Catharines,ON,L2T 2K5,CA,0,0,0,0
+7164,Towne Cinemas St. Catherines,Towne Cinemas,Towne Cinemas,280 St. Paul Street,St. Catherines,ON,L2R 3M9,CA,0,0,0,0
+7174,Sault Ste Marie Odeon,Sault Ste Marie,Sault Ste Marie Odeon,641 Queen Street East,Sault Ste. Mari,ON,P6A 1M3,CA,0,0,0,0
+7176,Cumberland Thunder Bay,Cumberland Tbay,Cumberland Thunder Bay,115 North Cumberland St.,Thunder Bay,ON,T7A 4M3,CA,0,0,0,0
+7178,Victoria Thunder Bay,Victoria Tbay,Victoria Thunder Bay,320 Victoria Avenue,Thunder Bay,ON,P7C 1A3,CA,0,0,0,0
+7179,Thunder Bay Cineplex,Thunder Bay Cin,Thunder Bay Cineplex,125 Syndicate St. South,Thunder Bay,ON,P7E 1C5,CA,0,0,0,0
+7180,Albion,Albion,Albion,Albion Mall Shopping Centre,Rexdale,ON,M9V 1B4,CA,0,0,0,0
+7181,Central Parkway,Central Parkway,Central Parkway,377 Burnhamthorpe Road East,Mississauga,ON,L5A 3V1,CA,0,0,0,0
+7186,Finch Cinemas,Finch Cinemas,Finch Cinemas,1000 Finch Avenue West,Downsview,ON,M3J 2E7,CA,0,0,0,0
+7187,Fairview Mall Cinemas Toronto,Fairview Toront,Fairview Mall Cinemas Toronto,1800 Sheppard Ave. East,Willowdale,ON,M2J 4G6,CA,0,0,0,0
+7190,Humber Cinemas,Humber Cinemas,Humber Cinemas,2442 Bloor Street West,Toronto,ON,M6S 1R1,CA,0,0,0,0
+7191,Hyland Cinemas Toronto,Hyland  Toronto,Hyland Cinemas Toronto,1501 Yonge  St,Toronto,ON,M4T 1Z2,CA,0,0,0,0
+7192,Pantages,Pantages,Pantages,244 Victoria Street,Toronto,ON,M5B 1V8,CA,0,0,0,0
+7193,Madison Cinemas,Madison Cinemas,Madison Cinemas,4950 Yonge St.,North York,ON,M2N 5N6,CA,0,0,0,0
+7194,Promenade Cinemas,Promenade,Promenade Cinemas,Promenade Mall,Thornhill,ON,L4J 4P8,CA,0,0,0,0
+7195,Sherway Cinemas,Sherway,Sherway Cinemas,30 Boncer Road,Mississauga,ON,M9C 5L4,CA,0,0,0,0
+7198,Thornhill Square,Thornhill Squar,Thornhill Square,300 John Street,Thornhill,ON,L3T 5W4,CA,0,0,0,0
+7199,CPX Varsity and VIP,Varsity & VIP,Cineplex Cinemas Varsity and VIP,55 Bloor Street West,Toronto,ON,M4W 1A5,CA,1,0,1,1
+7200,Woodbine Cinemas ,Woodbine,Woodbine Cinemas ,500 Rexdale Blvd.,Rexdale,ON,M9W 6K5,CA,0,0,0,0
+7201,Woodside Square Cinemas,Woodside Sq,Woodside Square Cinemas,1571 Sandhurst Circle,Agincourt,ON,M1V 1V2,CA,0,0,0,0
+7202,Canada Square Cinemas,Canada Square,Canada Square Cinemas,2200 Yonge St.,Toronto,ON,M4S 2C6,CA,0,0,0,0
+7203,York Cinemas,York Cinemas,York Cinemas,101-105 Eglinton Avenue East,Toronto,ON,M4P 1H4,CA,0,0,0,0
+7204,Vanier Cinemas,Vanier Cinemas,Vanier Cinemas,150 Montreal Road,Vanier,ON,K1L 6L6,CA,0,0,0,0
+7205,Warden Woods Cinemas,Warden Woods,Warden Woods Cinemas,725 Warden Ave,Scarborough,ON,M1L 5R7,CA,0,0,0,0
+7206,CPX Seaway,Seaway,Cineplex Odeon Seaway Mall Cinemas,800 Niagara Street,Welland,ON,L3C 1M3,CA,0,0,1,0
+7207,FP Chatham Cinemas 6,FP Chatham,Famous Players Chatham Cinemas 6,27 Adelaide Street South,Chatham,ON,N7M 4P9,CA,0,0,0,0
+7209,Glade Place Cinemas,Glade Place,Glade Place Cinemas,9950 Tecumseh Rd East,Windsor,ON,N8R 1A2,CA,0,0,0,0
+7210,Odeon Windsor,Odeon Windsor,Odeon Windsor,490 Riverside Drive West,Windsor,ON,N9A 5K6,CA,0,0,0,0
+7211,Palace Cinemas,Palace Cinemas,Palace Cinemas,300 Ouelette Ave,Windsor,ON,N9A 7B4,CA,0,0,0,0
+7213,CPX Markham & VIP,CPX Markham & VIP,Cineplex Cinemas Markham and VIP,179 Enterprise Blvd.,Markham,ON,L6G 0E7,CA,1,1,1,1
+7218,Odeon Cinemas Hamilton,Odeon Cinemas,Odeon Cinemas,156 King St. East,Hamilton,ON,L8N 1B2,CA,0,0,0,0
+7222,Stone Road Mall Cinemas,Stone Road,Stone Road Mall,435 Stone Road,Guelph,ON,N1G 2X6,CA,0,0,0,0
+7223,Galleria Cinemas,Galleria Cinema,Galleria Cinemas,355 Wellington Rd. S.,London,ON,N6A 3N7,CA,0,0,0,0
+7224,Champlain Cinemas,Champlain Mall,Champlain Cinemas,1600 Champlain Ave.,Whitby,ON,L1N 6A7,CA,0,0,0,0
+7225,Erin Mills Town Centre Cinemas,Erin Mills,Erin Mills Town Centre Cinemas,5100 Erin Mills Parkway,Mississauga,ON,L5M 4Z5,CA,0,0,0,0
+7228,410 & 7 Centre Cinemas,410 & 7,410 & 7 Centre Cinemas,150 West Drive,Brampton,ON,L6P 4P9,CA,0,0,0,0
+7229,Orleans Town Centre Cinemas,Orleans,Orleans Town Centre Cinemas,250 Centrum Blvd.,Orleans,ON,K1E 3V7,CA,0,0,0,0
+7233,Cambridge Cinemas,Cambridge,Cambridge Cinemas,600 Hespeler Road,Cambridge,ON,N1R 8H2,CA,0,0,0,0
+7235,Cineplex Odeon Exchange Centre,Exch. Centre,Cineplex Odeon Exchange Centre,111 Albert Street,Ottawa,ON,K1P 1A5,CA,0,0,0,0
+7236,CPX Fairview St. Catharines,Fairview,Fairview Mall ? Closed,285 Geneva Street,St. Catharines,ON,L2N 2G3,CA,0,0,0,0
+7237,Northumberland Mall Cinemas,Northumberland,Northumberland Mall Cinemas,1111 Elgin St. West,Cobourg,ON,K9A 5H7,CA,0,0,0,0
+7238,CPX Upper James,Upper James,Cineplex Odeon Upper James,1405 Upper James St.,Hamilton,ON,L9B 1K3,CA,0,0,0,0
+7239,Elgin Mills Cinemas,Elgin Mills,Elgin Mills Cinemas,10909 Yonge Street,Richmond Hill,ON,L4C 3E3,CA,0,0,0,0
+7240,CPX Morningside,Morningside,Cineplex Odeon Morningside Cinemas,785 Milner Avenue,Scarborough,ON,M1B 3C3,CA,0,1,1,0
+7241,CPX Clarington Place,Clarington,Cineplex Odeon Clarington Place Cinemas ,111 Clarington Boulevard,Clarington,ON,L1C 4Z3,CA,0,0,1,0
+7242,Market Square Brantford,Market Sq Brant,Market Square Brantford,1 Market Street,Brantford,ON,N3T 6C8,CA,0,0,0,0
+7244,CPX First Markham Place ,FirstMarkham,Cineplex Odeon First Markham Place,"Highway, 7 & Fairburn Drive",Markham,ON,L3R 3P9,CA,0,0,0,0
+7245,CPX Westmount 6 ,Westmount 6,Cineplex Odeon Westmount 6,785 Wonderland Road,London,ON,N6K 1M6,CA,0,0,0,0
+7246,CPX Sheppard,Sheppard,Cineplex Odeon Sheppard Cinemas,4861 Yonge Street,Toronto,ON,M2N 5X2,CA,0,0,0,0
+7247,CPX South Keys,South Keys,Cineplex Odeon South Keys Cinemas ,2214 Bank Street,Ottawa,ON,K1V 1J6,CA,0,1,1,0
+7248,CPX Ajax,Ajax 10,Cineplex Odeon Ajax Cinemas ,248 Kingston Road East,Ajax,ON,L1S 1G1,CA,0,0,1,0
+7249,GLX Barrie,GrndBarrie,Galaxy Cinemas Barrie,72 Commerce Park Drive,Barrie,ON,L4N 8W8,CA,0,1,1,0
+7250,CPX Orion Gate,Orion Gate,Cineplex Odeon Orion Gate Cinemas ,"20 Biscayne Crescent, Highway 410 & Steeles Ave",Brampton,ON,L6W 4S1,CA,0,0,0,0
+7251,Square One,Square One,Square One,100 City Centre Drive,Mississauga,ON,L5B 2C9,CA,0,0,0,0
+7253,CPX Eglinton T.C.,Warden&Eglin,Cineplex Odeon Eglinton Town Centre Cinemas,22 Lebovic Avenue  ,Toronto,ON,M1L 4V9,CA,0,1,1,0
+7256,CPX Niagara Square,Niagara Sq.,Cineplex Odeon Niagara Square Cinemas ,7555 Montrose Road,Niagara Falls,ON,L2H 2E9,CA,0,1,1,0
+7257,CPX Devonshire Mall,Devonshire,Cineplex Odeon Devonshire Mall Cinemas,3100 Howard Avenue,Windsor,ON,N8X 3Y8,CA,0,0,1,0
+7259,CPX Gardiners Road,Gardiners Road,Cineplex Odeon Gardiners Road Cinemas ,626 Gardiners Road,Kingston,ON,K7M 3X9,CA,0,1,1,0
+7260,CPX Queensway and VIP,Queensway,Cineplex Cinemas Queensway and VIP,1025 The Queensway,Etobicoke,ON,M8Z 6C7,CA,1,1,1,1
+7262,GLX Cornwall,Cornwall,Galaxy Cinemas Cornwall,1325 Second Street East,Cornwall,ON,K6H 2B6,CA,0,0,1,0
+7263,GLX Peterborough Sq,Peterborough,Galaxy Cinemas Peterborough,320 Water Street,Peterborough,ON,K9H 7N9,CA,0,1,1,0
+7264,GLX Owen Sound,Owen Sound,Galaxy Cinemas Owen Sound,1020 10th Street West,Owen Sound,ON,N4K 5S1,CA,0,0,1,0
+7265,GLX North Bay Mall,North Bay,Galaxy Cinemas North Bay,300 Lakeshore Drive,North Bay,ON,P1A 3V2,CA,0,1,1,0
+7266,GLX Sault Ste Marie,StationMall,Galaxy Cinemas Sault Ste Marie,293 Bay Street,Sault Ste. Mari,ON,P6A 1X3,CA,0,1,1,0
+7267,GLX St. Thomas,Elgin Mall,Galaxy Cinemas St. Thomas,417 Wellington Street,St. Thomas,ON,N5R 5J5,CA,0,0,1,0
+7268,GLX Waterloo,Conestoga,Galaxy Cinemas Waterloo,550 King Street North,Waterloo,ON,N2L 5W6,CA,0,1,1,0
+7269,GLX Cambridge,G Cambridge,Galaxy Cinemas Cambridge,355 Hespeler Road,Cambridge,ON,N1R 6B3,CA,0,0,1,0
+7270,GLX Orangeville,Orangeville,Galaxy Cinemas Orangeville,"Fairgrounds Shopping Centre, 85 Fifth Avenue",Orangeville,ON,L9W 5B7,CA,0,1,1,0
+7271,GLX Midland ,Mount. View,Galaxy Cinemas Midland,"Highway 93, RR2, Box2",Midland,ON,L4R 4K4,CA,0,0,1,0
+7272,GLX Guelph,Guelph,Galaxy Cinemas Guelph,485 Woodlawn Road West,Guelph,ON,N1K 1E9,CA,0,1,1,0
+7273,CPX Oakville and VIP,CPX Oakville,Cineplex Cinemas Oakville and VIP,3531 Wyecroft Road,Oakville,ON,L6L 0B7,CA,1,1,1,1
+7274,GLX Orillia ,Orillia,Galaxy Cinemas Orillia,865 West Ridge Boulevard,Orillia,ON,L3V 8B3,CA,0,0,1,0
+7276,Lansdowne,Lansdowne,Lansdowne,645 Lansdowne St. W.,Peterborough,ON,,CA,0,0,0,0
+7277,Owen Sound Cinema,Owen,Owen Sound Cinema,,Owen Sound,ON,,CA,0,0,0,0
+7281,Brookdale,Brookdale,Brookdale,967 Brookdale Ave.,Cornwall,ON,,CA,0,0,0,0
+7282,Parkedale,Parkedale,Parkedale,2430 Parkedale Ave. W.,Brockville,ON,,CA,0,0,0,0
+7283,GLX Brockville,Brockville,Galaxy Cinemas Brockville,"1000 Island Mall, 2399 Parkedale Avenue",Brockville,ON,K6V 2G9,CA,0,0,1,0
+7284,CPX Aurora,Aurora,Cineplex Odeon Aurora Cinemas,15460 Bayview Avenue,Aurora,ON,L4G 7J1,CA,0,1,1,0
+7285,CPX Milton,Milton,Cineplex Cinemas Milton,1175 Maple Avenue,Milton,ON,L9T 0A5,CA,0,1,1,0
+7286,CPX Barrhaven,Barrhaven,Cineplex Odeon Barrhaven Cinemas ,131 Riocan Avenue,Barrhaven,ON,K2J 5G5,CA,0,1,1,0
+7288,GLX Collingwood,Collingwood,Galaxy Cinemas Collingwood,6 Mountain Road,Collingwood,ON,L9Y 4S8,CA,0,0,1,0
+7289,CPX Oshawa,N. Oshawa,Cineplex Odeon Oshawa Cinemas,1351 Grandview Street North,Oshawa,ON,L1K 0G1,CA,0,1,1,0
+7290,CPX Hamilton Mountain,CPX Hamilton,Cineplex Cinemas Hamilton Mountain,795 Paramount Drive,Stoney Creek,ON,L8J 0B4,CA,0,1,1,0
+7291,GLX Brantford,GLX Brantford,Galaxy Cinemas Brantford,300 King George Road,Brantford,ON,N3R 5L7,CA,0,1,1,0
+7293,CPX Beaches,CPX Beaches,The Beach Cinemas,1651 Queen Street East,Toronto,ON,M4L 1G5,CA,0,0,1,0
+7294,AAC Bayview Village,Bayview Vil MP,AAC Bayview Village,2901 Bayview Avenue,Toronto,ON,M2K 1E6,CA,0,0,0,0
+7295,CPX Cumberland,Cumberland,Cumberland Four Cinemas,159 Cumberland Street,Toronto,ON,M5R 1A2,CA,0,0,0,0
+7296,CPX Kitchener and VIP,CPX Kitchener,Cineplex Cinemas Kitchener and VIP,225 Fairway Road South,Kitchener,ON,N2C 1X2,CA,1,1,1,1
+7297,GLX Chatham,Chatham 7,Galaxy Cinemas Chatham,760 St. Clair Street,Chatham,ON,N7L 0E8,CA,0,0,1,0
+7298,CPX Empress Walk,CPX Empress Walk,Cineplex Cinemas Empress Walk,5095 Yonge St.,Toronto,ON,M2N 6Z4,CA,0,1,1,0
+7303,CPX Kanata,CPX Kanata,Cineplex Cinemas Kanata,801 Kanata Avenue,Kanata,ON,K2T 1E7,CA,0,0,0,0
+7304,Bayfield Cinemas,Bayfield Cinemas,Bayfield Cinemas,320 Bayfield St,Barrie,ON,L4M 3C1,CA,0,0,0,0
+7310,CPX Whitby,CPX Whitby,Cineplex Cinemas Whitby,75 Consumers Drive,Whitby,ON,L1N 9S2,CA,0,0,0,0
+7311,CPX Lansdowne & VIP,CPX Lansdowne & VIP,Cineplex Cinemas Lansdowne and VIP,325 Marche Way,Ottawa,ON,K1S 5J3,CA,1,0,1,1
+7312,CPX Pickering & VIP,CPX Pickering & VIP,Cineplex Cinemas Pickering and VIP,1355 Kingston Road,Pickering,ON,L1V 1B8,CA,1,1,1,1
+7400,CPX Yonge-Eglinton and VIP,CPX Yonge-Eglinton,Cineplex Cinemas Yonge-Eglinton and VIP,2300 Yonge Street,Toronto,ON,M4P 1E4,CA,1,1,1,1
+7401,SilverCity Empress Walk,SC N. York,SilverCity North York at Empress Walk,5095 Yonge Street,North York,ON,M2N 6C6,CA,0,0,0,0
+7402,SBNK Toronto,Scotia Toronto,Scotiabank Theatre Toronto,259 Richmond Street West,Toronto,ON,M5V 3M6,CA,0,1,1,1
+7403,FP Canada Square,Canada Sq.,Famous Players Canada Square Cinemas,2190 Yonge Street,Toronto,ON,M4S 2C6,CA,0,0,0,0
+7404,CPX Scarborough,Coli. Scar.,Cineplex Cinemas Scarborough,"Scarborough Town Centre, 300 Borough Drive",Scarborough,ON,M1P 4P5,CA,0,1,1,0
+7405,SC Richmond Hill,SC R. Hill,SilverCity Richmond Hill Cinemas,8725 Yonge Street,Richmond Hill,ON,L4C 6Z1,CA,0,1,0,0
+7406,CPX Yorkdale,CPX Yorkdale,Cineplex Cinemas Yorkdale,"Yorkdale Shopping Centre, 3401 Dufferin Street ",Toronto,ON,M6A 2T9,CA,0,1,1,0
+7407,SC Newmarket ,SC N.Market,SilverCity Newmarket Cinemas and XSCAPE Entertainment Centre,18195 Yonge Street,East Gwillimbury,ON,L9N 0H9,CA,0,1,1,0
+7408,CPX Vaughan,CPX Vaughan,Cineplex Cinemas Vaughan,3555 Highway 7 West,Vaughan,ON,L4L 6B1,CA,0,1,1,0
+7409,GLX Belleville,Belleville,Galaxy Cinemas Belleville,160 Bell Boulevard,Belleville,ON,K8P 5L2,CA,0,1,1,0
+7410,FP Pickering 8,Pickering,Famous Players Pickering 8 Cinemas,"Pickering Town Centre, 1355 Kingston Road",Pickering,ON,L1V 1B8,CA,0,0,0,0
+7411,SC Brampton,SC Brampton,SilverCity Brampton Cinemas ,50 Great Lakes Drive,Brampton,ON,L6R 2K7,CA,0,1,0,0
+7412,FP Gateway 6,Gateway Brampto,Gateway 6 Brampton,5 Gateway Boulevard,Brampton,ON,L6T 4X2,CA,0,0,0,0
+7413,SC Burlington,SC Burling.,SilverCity Burlington Cinemas,1250 Brant Street,Burlington,ON,L7P 1X8,CA,0,1,1,0
+7414,Jackson Square,Jackson Sq.,Jackson Square,2 King Street west,Hamilton,ON,L8P 1A1,CA,0,1,0,0
+7415,CPX Ancaster,CPX Ancaster,Cineplex Cinemas Ancaster,771 Golf Links Road,Ancaster,ON,L9G 3K9,CA,0,1,1,0
+7416,Capitol Kingston,Capitol Kin,Capitol 7 Kingston,213-223 Princess Street,Kingston,ON,K7L 1B3,CA,0,0,0,0
+7417,SC Mississauga,SC Mississ.,SilverCity Mississauga Cinemas,3055 Vega Boulevard,Mississauga,ON,L5L 5B5,CA,0,1,0,0
+7418,SilverCity Kitchener,SC Kitchenr,SilverCity Kitchener,135 Gateway Park Drive,Kitchener,ON,N2P 2J4,CA,0,0,0,0
+7419,Kings College,Kings College,Kings College,262 King St West,Kitchener,ON,N2G 1B6,CA,0,0,0,0
+7420,CPX Mississauga,CPX Mississauga,Cineplex Cinemas Mississauga,309 Rathburn Road West,Mississauga,ON,L5B 4C1,CA,0,1,1,0
+7421,Wellington,Wellington,Wellington 8,983 Wellington Rd. South,London,ON,N6E 3A9,CA,0,0,0,0
+7422,SC London,SC London,SilverCity London Cinemas ,1680 Richmond Street,London,ON,N6G 3Y9,CA,0,1,1,0
+7423,FP Oshawa Centre 8,Oshawa Centre,Oshawa Centre 8,419 King Street West,Oshawa,ON,L1J 2K5,CA,0,0,0,0
+7424,CPX Ottawa,Coli.Ottawa,Cineplex Cinemas Ottawa,3090 Carling Avenue,Ottawa,ON,K2B 7K2,CA,0,1,1,0
+7425,Rideau Centre,Rideau,Rideau Centre,50 Rideau Street,Ottawa,ON,K1N 9J7,CA,0,0,0,0
+7426,SilverCity St. Catharines,SC St. Cat.,SilverCity St. Catharines,Pen Centre Shopping Mall,St. Catharines,ON,L2T 2K9,CA,0,0,0,0
+7427,FP Lambton 9,Lambton,Famous Players Lambton 9 Cinemas,1450 London Road,Sarnia,ON,N7S 1P7,CA,0,0,0,0
+7428,SBNK Ottawa,SBNK Ottawa,Scotiabank Theatre Ottawa (formerly SilverCity Gloucester),2385 City Park Drive,Ottawa,ON,K1J 1G1,CA,0,1,1,0
+7429,SC Sudbury,SC Sudbury,SilverCity Sudbury Cinemas ,355 Barrydowne Road,Sudbury,ON,P3B 4K4,CA,0,1,1,0
+7430,SC Thunder Bay,SC T. Bay,SilverCity Thunder Bay Cinemas ,850 North May Street,Thunder Bay,ON,P7C 6A5,CA,0,1,1,0
+7431,SC Windsor,SC Windsor,SilverCity Windsor Cinemas ,4611 Walker Road,Windsor,ON,N8W 3T6,CA,0,1,1,0
+7432,Alliance Beaches,Beaches,The Beach Cinemas - Alliance Cinemas,1651 Queen Street West,Toronto,ON,M4L 1G5,CA,0,0,0,0
+7433,Alliance Bayview Village,Bayview Vil,Bayview Village - Alliance Atlantis Cinemas,2901 Bayview Avenue,Toronto,ON,M2K 1E6,CA,0,0,0,0
+7434,Alliance Cumberland,Cumberland,Cumberland Four Cinemas,159 Cumberland Street,Toronto,ON,M5R 1A2,CA,0,0,0,0
+7435,"Cedarbrae,Toronto",Cedarbr,"Cedarbrae,Toronto",FP Closed,Toronto,ON,,CA,0,0,0,0
+7436,"Uptown, toronto","Uptown, toronto","Uptown, toronto",FP Closed,Toronto,ON,,CA,0,0,0,0
+7475,"PARKWAY 6, RICHMOND HILL(CLOSED)","PARKWAY 6, Rich","PARKWAY 6, RICHMOND HILL(CLOSED)",FP Closed,RICHMOND HILL,ON,,CA,0,0,0,0
+7477,CAPITOL THEATRE,"CAPITOL, London",CAPITOL THEATRE,FP Closed,Toronto,ON,,CA,0,0,0,0
+7478,VICTORIA TERRACE 6 CINEMAS, VICTORIA TERRA,VICTORIA TERRACE 6 CINEMAS,FP Closed,Toronto,ON,,CA,0,0,0,0
+7479,NORTH YORK SHERIDAN CINEMAS,"SHERIDAN, North",NORTH YORK SHERIDAN CINEMAS,FP Closed,Toronto,ON,,CA,0,0,0,0
+7480,EGLINTON THEATRE,"EGLINTON, Toron",EGLINTON THEATRE,FP Closed,Toronto,ON,,CA,0,0,0,0
+7481,PLAZA CINEMAS(CLOSED),"PLAZA, Toronto",PLAZA CINEMAS(CLOSED),FP Closed,Toronto,ON,,CA,0,0,0,0
+7482,GLENWAY CINEMAS(CLOSED),"GLENWAY, Newmar",GLENWAY CINEMAS(CLOSED),FP Closed,Newmarket,ON,,CA,0,0,0,0
+7483,LIME RIDGE MALL CINEMAS(CLOSED),"LIME RIDGE, Ham",LIME RIDGE MALL CINEMAS(CLOSED),FP Closed,Hamilton,ON,,CA,0,0,0,0
+7484,SUSSEX CENTRE CINEMAS(CLOSED),"SUSSEX CENTRE, ",SUSSEX CENTRE CINEMAS(CLOSED),FP Closed,Mississauga,ON,,CA,0,0,0,0
+7485,MARKVILLE MALL CINEMAS(CLOSED),"MARKVILLE, Mark",MARKVILLE MALL CINEMAS(CLOSED),FP Closed,Markham ,ON,,CA,0,0,0,0
+7486,OAKVILLE TOWN CENTRE CINEMAS(CLOSED),"CINEMAS, Oakvil",OAKVILLE TOWN CENTRE CINEMAS(CLOSED),FP Closed,Oakville ,ON,,CA,0,0,0,0
+7487,LINCOLN MALL CINEMAS(CLOSED),"LINCOLN MALL, S",LINCOLN MALL CINEMAS(CLOSED),FP Closed,St. Catharines,ON,,CA,0,0,0,0
+7488,FIESTA MALL CINEMAS(CLOSED),"FIESTA, Stoney ",FIESTA MALL CINEMAS(CLOSED),FP Closed,Stoney Creek,ON,,CA,0,0,0,0
+7489,GLOUCESTER CINEMAS(CLOSED),"GLOUCESTER 5, G",GLOUCESTER CINEMAS(CLOSED),FP Closed,Ottawa,ON,,CA,0,0,0,0
+7490,"CITY CENTRE,SUDB(CLOSED)","CITY CENTRE, Su","CITY CENTRE,SUDB(CLOSED)",FP Closed,Sudbury,ON,,CA,0,0,0,0
+7491,PARKWAY 5 CINEMAS(CLOSED),"PARKWAY 5, Wind",PARKWAY 5 CINEMAS(CLOSED),FP Closed,Windsor,ON,,CA,0,0,0,0
+7492,DEVONSHIRE MALL CINEMAS(CLOSED),"DEVONSHIRE, Win",DEVONSHIRE MALL CINEMAS(CLOSED),FP Closed,Windsor,ON,,CA,0,0,0,0
+7519,Concession load use,,Concession load use,,,ON,,CA,0,0,0,0
+7816,Outtakes On Yonge,Outtakes On Yonge,Outtakes On Yonge,1303 Yonge Street,Toronto,ON,M4T 2Y9,CA,0,0,0,0
+7823,YoYo Pergola,YoYo Pergola,YoYo?s Yogurt Caf Pergola,"79 Clair Road East, Unit 4",Guelph,ON,N1L 0J7,CA,0,0,0,0
+8001,The Rec Room Avalon Mall,RR Avalon ML,The Rec Room Avalon Mall,2210 - 48 Kenmount Road,St. John's,NL,A1B 1W3,CA,0,0,0,0
+8101,CPX Torbay,CPX Torbay,Cineplex Cinema Torbay,Torbay Road,St. John's,NL,,CA,0,0,0,0
+8122,CPX Mount Pearl,CPX Mount Pearl,Cineplex Cinemas Mount Pearl,760 Topsail Road,St. John's,NL,A1N 3J5,CA,0,0,0,0
+8124,CPX Millbrook,CPX Millbrook,Cineplex Cinemas Millbrook,2 Main Street,Corner Brook,NL,A2H 6G7,CA,0,0,0,0
+8126,SBNK St. John's,SBNK St. John's,Scotiabank Theatre St. John's,Avalon Mall,St. John's,NL,A1B 1W3,CA,0,1,0,0
+9100,C.P. Chateauguay (9100 - Closed 2005),CPChateaug'y,C.P. Chateauguay,104 St. Ste-Marguerite Est,Ville Mercier,QC,J6R 2L1,CA,0,0,0,0
+9101,Atwater Cinemas,Atwater,Atwater Cinemas,Niveau Metro,Montreal,QC,H3Z 1X5,CA,0,0,0,0
+9104,Berri Cinemas,Berri Cinemas,Berri Cinemas,1280 St. Denis Street,Montreal,QC,H2X 3J6,CA,0,0,0,0
+9105,Brossard Cinemas,Brossard,Brossard Cinemas,2150 Boul Lapiniere,Brossard,QC,J4W 2T5,CA,0,0,0,0
+9107,Complex Desjardins Cinemas,Complex Desjar,Complex Desjardins Cinemas,1 Place Desjardins,Montreal,QC,H5B 1B5,CA,0,0,0,0
+9109,CPX Montreal Forum,Montreal Forum,Cinma Cineplex Forum,2313 St. Catherine St. West Suite 101,Montral,QC,H3H 1N2,CA,0,0,0,0
+9111,Cotes Des Neiges,Cot.DesNeige,Cote des Neiges,6700 Cote Des Neiges,Montreal,QC,H3S 2B2,CA,0,0,0,0
+9112,C.P. Boucherville,Boucherville,Cin-parc Cineplex Odeon Boucherville,1700 rue Eiffel,Boucherville,QC,J4B 7W1,CA,0,0,0,0
+9114,C.P. Laval,CP Laval,C.P. Laval,8000 Autoroute Des Laurentides,Laval,QC,H7P 2N5,CA,0,0,0,0
+9115,Cremazie Theatre,Cremazie,Cremazie Theatre,8610 Rue St Denis,Montreal,QC,H2P 2H2,CA,0,0,0,0
+9116,Decarie Square Cinemas,Decarie Sq,Decarie Square Cinemas,6900 Boul Decarie,Montreal,QC,H3X 2T8,CA,0,0,0,0
+9117,Le Faubourg Cinemas,Le Faubourg,Le Faubourg Cinemas,1616 Ste Catherine Street West,Montreal,QC,H3H 1L7,CA,0,0,0,0
+9118,Jean Talon,Jean Talon,Jean Talon,4255 Rue Jean Talon Est,Montreal,QC,H1S 1J9,CA,0,0,0,0
+9119,Carrefour Laval Cinemas,Carrefour Laval,Carrefour Laval Cinemas,2330 Boul. Le Carrefour,Laval,QC,H7T 1X5,CA,0,0,0,0
+9120,Cinema 2000 Cinemas,Cinema 2000,Cinema 2000 Cinemas,Centre 2000 Hypermarche,Laval,QC,H7T 1A3,CA,0,0,0,0
+9122,Egyptien Cinemas,Egyptien,Egyptien Cinemas,"1455 Rue Peel, 3ieme Etage",Montreal,QC,H3A 1T5,CA,0,0,0,0
+9123,Centreville Cinemas,Centreville,Centreville Cinemas,2001 University Street,Montreal,QC,H3A 2A6,CA,0,0,0,0
+9124,Place Du Canada,Place Du Canada,Place Du Canada,1010 Lagauchetiere Street West,Montreal,QC, ,CA,0,0,0,0
+9125,Pointe Claire Cinemas,Pointe Claire,Pointe Claire Cinemas,6341 Transcanadiene,Pointe Claire,QC,H9R 5A5,CA,0,0,0,0
+9126,Centre St-Denis,Centre St-Denis,Centre St-Denis,1590 St. Denis Street,Montreal,QC, ,CA,0,0,0,0
+9129,Canardiere Theatre,Canardiere Thea,Canardiere Theatre,Centre D'Achats Canardiere,Quebec City,QC,G1J 1Y4,CA,0,0,0,0
+9130,CPX Place Charest,Pl. Charest,Cinma Cineplex Odeon Place Charest,500 Rue Du Pont,Quebec City,QC,G1K 6N4,CA,0,0,0,0
+9131,Bois Francs,Bois Francs,Bois Francs,469 Jutras Blvd East,Victoriaville,QC,G6P 7H4,CA,0,0,0,0
+9134,Capital Theatre,Capital Sherbro,Capital Theatre,59 King Street East,Sherbrooke,QC,J1G 1A3,CA,0,0,0,0
+9135,Carrefour Du Nord Cinemas,Carrefour Du No,Carrefour Du Nord Cinemas,900 Grignon Blvd.,St. Jerome,QC,J7Y 3S7,CA,0,0,0,0
+9138,De Paris Cinemas,De Paris,De Paris Cinemas,966 Rue St-Jean,Quebec City,QC,G1R 1R5,CA,0,0,0,0
+9139,Place Du Royaume Cinemas,Place Du Royaum,Place Du Royaume Cinemas,1451 Boul. Talbot,Chicoutimi,QC,G7H 7N6,CA,0,0,0,0
+9141,De Paris,De Paris,De Paris,957 Rue St-Maurice,Trois Rivieres,QC,999999,CA,0,0,0,0
+9142,Le Paris,Le Paris,Le Paris,50 Dufferin Street,Valleyfield,QC, ,CA,0,0,0,0
+9143,CPX Saint Bruno,St. Bruno,Cinma Cineplex Odeon St-Bruno,1495 boulevard St-Bruno,St-Bruno,QC,J3V 6J1,CA,0,0,0,0
+9144,Les Galleries Laval,Galleries Lava,Les Galleries Laval,1545 Blvd Le Corbusier,Laval,QC,H7S 2K6,CA,0,0,0,0
+9145,CPX Place La Salle,Pl. LaSalle,Cinma Cineplex Odeon Place La Salle,7816 Boulevard Champlain,LaSalle,QC,H8P 1B3,CA,0,0,0,0
+9146,Cavendish Mall,Cavendish,Cavendish Mall,The Mall Cavendish,Cote St. Luc,QC,H4W 2T5,CA,0,0,0,0
+9150,Fleur De Lys,Fleur De Lys,Fleur De Lys,,,QC,,CA,0,0,0,0
+9151,Place Longueuil Cinemas,Place Longueuil,Place Longueuil Cinemas,1 Centre Commercial,Longueuil,QC,J4K 2V1,CA,0,0,0,0
+9152,Dauphin Cinemas,Dauphin Cinemas,Dauphin Cinemas,2396 Rue Beaubien Est,Montreal,QC,H2G 1N2,CA,0,0,0,0
+9153,CPX Dorion,Dorion,Cinma Cineplex Odeon Carrefour Dorion,391 boulevard Harwood,Dorion,QC,J7V 7W1,CA,0,0,0,0
+9154,CPX Delson,Delson,Cinma Cineplex Odeon Delson,47 boulevard Georges-Gagn,Delson,QC,J5B 2E5,CA,0,0,0,0
+9155,CPX Chateauguay (9155 - Closed 2009),Chateaug'yEC,CPX Chateauguay,180 Boulevard D'Anjou,Chateauguay,QC,J6J 2R3,CA,0,0,0,0
+9164,C.P. Beauport,C.P. Beauport,C.P. Beauport,825 Rue Clemenceau,Beauport,QC,G1E 6X9,CA,0,0,0,0
+9165,C.P. Trois Rivieres,C.P. Trois Rivi,C.P. Trois Rivieres,1131 Chemin Des Petites Terres,Pointe Du Lac,QC,G0X 1Z0,CA,0,0,0,0
+9166,C.P. Saint Nicolas (Do not use),CP DeLaColl,C.P. Saint Nicolas (Do not use),Route Demers,Saint Nicolas,QC,G0S 2Z0,CA,0,0,0,0
+9167,C.P. Tracy,C.P. Tracy,C.P. Tracy,2200 Chemin De Golf,Tracy,QC,J3P 5N3,CA,0,0,0,0
+9170,Le Laurentien Cinemas,Le Laurentien,Le Laurentien Cinemas,5900 Boul Des Gradins,Quebec City,QC,G1J 1A6,CA,0,0,0,0
+9171,CPX Gatineau,Gatineau,CPX Gatineau,120 Rue De L'Hopital,Gatineau,QC,J8T 8M2,CA,0,0,0,0
+9172,CPX Latin Quarter,LatinQuarter,Cinma Cineplex Odeon Quartier Latin,350 rue Emery,Montral,QC,H2X 1J1,CA,0,0,0,0
+9173,CPX Dorion (9173 - Closed 2007),Dorion,Cinma Cineplex Odeon Carrefour Dorion,391 Harwood Boulevard,Dorion,QC,J7V 9Z1,CA,0,0,0,0
+9174,CPX Delson (9174 - Closed 2007),Delson,Cinma Cineplex Odeon Delson,900 Boul Georges-Gagne,Delson,QC,J0L 1G0,CA,0,0,0,0
+9175,CPX Chateauguay (9175 - Closed 2007),Chateaug'yEC,Cineplex Odeon Encore Chteauguay Cinemas,180 Boulevard D'Anjou,Chateauguay,QC,J6J 2R3,CA,0,0,0,0
+9177,CPX Ste-Foy,Ste-Foy,Cinma Cineplex Odeon Ste-Foy,1200 autoroute Duplessis,St. Foy,QC,G2G 2B5,CA,0,0,0,0
+9181,CPX Beauport,Beauport,Cinma Cineplex Odeon Beauport,825 rue Clmenceau,Beauport,QC,G1C 2K6,CA,0,0,0,0
+9185,CPX Brossard & VIP,Carr.Bross,Cinma Cineplex Odeon Brossard et VIP,9350 boulevard Leduc,Brossard,QC,J4Y 0B3,CA,1,0,0,1
+9186,GLX Victoriaville,GLX Victoriaville,Cinma Galaxy Victoriaville,1121 boulevard Jutras Est,Victoriaville,QC,G6S 1J1,CA,0,0,0,0
+9188,GLX Sherbrooke,Sherbrooke,Cinma Galaxy Sherbrooke,4204 Bertrand-Fabi,Rock Forest,QC,J1N 3Y2,CA,0,0,0,0
+9189,GLX Fleur Delys,Fleur Delys,Cinma Galaxy Fleur-de-Lys,4520 Boulevard Des Rcollets,Trois Rivieres,QC,G9A 4N2,CA,0,0,0,0
+9190,GLX Cinecapital,Cinecapital,Cinma Capitol St-Jean,286 rue Richelieu,St. Jean,QC,J3B 6Y4,CA,0,0,0,0
+9195,FP Carrefour Angrignon,Carrefour,Cinma Famous Players Carrefour Angrignon,7077 boulevard Newman,LaSalle,QC,H8N 1X1,CA,0,0,0,0
+9196,CPX IMAX Galeries Capitale,CPX IMAX Galaries,Cinma Cineplex IMAX aux Galeries de la Capitale,5401 boulevard des Galeries,Qubec,QC,G2K 1N4,CA,0,0,0,0
+9200,C.P. Chateauguay (9200 - Closed 2005),CPChateaug'y,C.P. Chateauguay,104 St. Ste-Marguerite Est,Ville Mercier,QC,J6R 2L1,CA,0,0,0,0
+9202,Le Nouvel Elysee,Le Nouvel Elyse,Le Nouvel Elysee,35 Milton Street,Montreal,QC,H2X 1V1,CA,0,0,0,0
+9203,CPX Boucherville 10,Bouch.ville,Cinma Cineplex Odeon Boucherville,20 boulevard de Mortagne,Boucherville,QC,J4B 5K6,CA,0,0,0,0
+9204,Cinema St. Jean,St. Jean,Cinema St. Jean,,,QC,,CA,0,0,0,0
+9205,Cinema 9 Rock Forest,Rock Forest,Cinema 9 Rock Forest,,,QC,,CA,0,0,0,0
+9206,Victoriaville,Victoriaville,Victoriaville,,,QC,,CA,0,0,0,0
+9266,C.P. Saint Nicolas,CP DeLaColl,Cin-parc Odeon St-Nicolas,440 rue Claude Jutras,Saint Nicolas,QC,G7A 3W2,CA,0,0,0,0
+9267,CPX Quartier Cavendish,Cavendish,Cinma Cineplex Quartier Cavendish,Le Mail Cavendish,Cote Saint-Luc,QC,H4W 2T5,CA,0,0,0,0
+9268,SC Gatineau,SC Gatineau,Cinma Starcit Gatineau,115 boulevard Du Plateau,Hull,QC,J9A 3G1,CA,0,0,0,0
+9400,Parisien Cinemas,Parisien,Le Parisien,480 Rue Ste. Catherine O.,Montreal,QC,H3B 1A6,CA,0,0,0,0
+9401,SC Montral,SC Montreal,Cinma Starcit Montral,4825 avenue Pierre De Coubertin,Montral,QC,H1V 3V4,CA,0,0,0,0
+9402,FP Versailles ,Versailles,Versailles,7275 Rue Sherbrooke E.,Montreal,QC,H1N 1E9,CA,0,0,0,0
+9403,Centre Eaton,Eaton,Centre Eaton,705 Rue Ste. Catherine O.,Montreal,QC,H3B 4G5,CA,0,0,0,0
+9404,FP Pointe Claire,FP P.Claire,Famous Players 8 Pointe Claire,185 Boul. Hymus,Pointe Claire,QC,H9R 1E9,CA,0,0,0,0
+9405,Carrefour Angrignon,Angrignon,Carrefour Angrignon,7075 Newman Blvd.,LaSalle,QC,H8N 1X1,CA,0,0,0,0
+9406,SBNK Montral,Scotia Montreal,Cinma Banque Scotia Montral,977 rue Sainte-Catherine Ouest,Montral,QC,H3B 4W3,CA,0,0,0,0
+9407,CPX Kirkland,Cpx.Krklnd,Cinma Cineplex Kirkland,3200 rue Jean Yves,Kirkland,QC,H9J 2R6,CA,0,0,0,0
+9408,CPX Laval,CPX Laval,Cinma Cineplex Laval ,2800 avenue Du Cosmodme,Laval,QC,H7T 2X1,CA,0,0,0,0
+9409,Starcit Hull,SC Hull,Starcit Hull,115 boul. Du Plateau,Hull,QC,J9A 3G1,CA,0,0,0,0
+9410,Les Galeries De Capitales,Les Galeries,Les Galeries de la Capitale,5401 boul. Des Galeries,Quebec City,QC,G2K 1N4,CA,0,0,0,0
+9411,Starcit Ste-Foy,SC St. Foy,StarCit Ste-Foy,"1150, boul. Duplessis",St. Foy,QC,G2G 2B5,CA,0,0,0,0
+9412,"Cinema Laval,Montreal",Cinema Laval,"Cinema Laval,Montreal",FP Closed,Montreal,QC,,CA,0,0,0,0
+9413,"Dorval Cinemas 4, Montreal",Dorval ,"Dorval Cinemas 4, Montreal",FP Closed,Montreal,QC,,CA,0,0,0,0
+9429,"PALACE 6, Montreal","PALACE 6, Montr","PALACE 6, Montreal",FP Closed,Montreal,QC,,CA,0,0,0,0
+9430,"CINEMA CARNIVAL, GREENFIELD PARK",FAMOUS PLAYERS ,"CINEMA CARNIVAL, GREENFIELD PARK",FP Closed,Montreal,QC,,CA,0,0,0,0
+9431,LES PROMENADES DE L'OUTAOUAIS (CLOSED),"LES PROMENADES,",LES PROMENADES DE L'OUTAOUAIS (CLOSED),FP Closed,Gatineau,QC,,CA,0,0,0,0
+9432,CARREFOUR DE L'ESTRIE CINEMAS(CLOSED),"CARREFOUR, Sher",CARREFOUR DE L'ESTRIE CINEMAS(CLOSED),FP Closed,Sherbrooke,QC,,CA,0,0,0,0
+9999,_SCENE,,,,,  ,,  ,0,0,0,0
+18019,CDM London,CDM London,CDM London,"220 Dundas St., 8th Floor",London,ON,N6A 1H3,CA,0,0,0,0
+18022,CDM Toronto,CDM Toronto,CDM Toronto,1300 Yonge Street 2nd Floor,Toronto,ON,M4T 1X3,CA,0,0,0,0
+41400,CSI - BRITISH COLUMBIA,CSI - BC,CSI - BRITISH COLUMBIA,118 - 1585 Broadway Street,Port Coquitlam,BC,V3C 2M7,CA,0,0,0,0
+43425,CSI - ALBERTA SOUTH - CALGARY,CSI - AB SOUTH - CAL,CSI - ALBERTA SOUTH - CALGARY,9 - 415 60th Ave. SE,Calgary,AB,T2H 2J5,CA,0,0,0,0
+43435,CSI - ALBERTA NORTH - EDMONTON,CSI - AB NORTH - EDM,CSI - ALBERTA NORTH - EDMONTON,100 - 17873 106A Ave. NW,Edmonton,AB,T5S 1V8,CA,0,0,0,0
+47400,CSI - ONTARIO CENTRAL - RONSON WAREHOUSE,CSI - ON - RONSON WA,CSI - ONTARIO CENTRAL - RONSON WAREHOUSE,70 Ronson Dr.,Toronto,ON,M9W 1B6,CA,0,0,0,0
+47420,CSI - ONTARIO EAST - OTTAWA,CSI - ON EAST - OTTA,CSI - ONTARIO EAST - OTTAWA,18E Enterprise Ave.,Ottawa,ON,K2G 0A6,CA,0,0,0,0
+47430,CSI - ONTARIO WEST - LONDON,CSI - ON WEST - LOND,CSI - ONTARIO WEST - LONDON,205C Exeter Rd. ,London,ON,N6L 1A4,CA,0,0,0,0
+47450,CSI - ONTARIO WEST - HAMILTON,CSI - ON WEST - HAMI,CSI - ONTARIO WEST - HAMILTON,"70 Nebo Road, Unit 2",Hamilton,ON,L8W 2E3,CA,0,0,0,0
+47910,CSI - HEAD OFFICE - ADMIN & WAREHOUSE,CSI - HO - ADMIN & W,CSI - HEAD OFFICE - ADMIN & WAREHOUSE,25 Enterprise Rd.,Toronto,ON,M9W 1C4,CA,0,0,0,0
+47926,Fantasy Fair Woodbine Mall,Fantasy Fair,Fantasy Fair Woodbine Mall,500 Rexdale Blvd,Etobicoke,ON,M9W 6K5,CA,0,0,0,0
+49410,CSI - QUEBEC,CSI - QUEBEC,CSI - QUEBEC,1200 Rue Begin,St. Laurent,QC,H4R 1X1,CA,0,0,0,0
